@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: dasdasdd-dev
+  labels:
+    environment-id: env_e8c51bfc-b358-4ca5-b6d4-7b420b9a9e89
+    project-id: project_2306e873-9efb-432c-9201-6927b2de73fe
+    project-name: dasdasdd
+    environment-name: dev
+    organization-id: org_1c58789b-c98c-4917-b321-116968ec4f8e
